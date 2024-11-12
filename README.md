@@ -6,7 +6,7 @@ This Project contains following services and folders:
 - `api-server`: HTTP API Server for REST API's
 - `build-server`: Docker Image code which clones, builds and pushes the build to S3
 - `s3-reverse-proxy`: Reverse Proxy the subdomains and domains to s3 bucket static assets
-  ![Screenshot](Screenshot.png)
+  
 
 ### Local Setup
 
@@ -26,6 +26,7 @@ At this point following services would be up and running:
 ### Demo
 
 [Watch The Demo Video](https://imgur.com/I6KgmNR)
+![Screenshot](Screenshot.png)
 
 ### Architecture
 
